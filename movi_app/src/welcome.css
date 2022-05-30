@@ -1,0 +1,32 @@
+#back{
+    background-color: #00081D;
+    color: white;
+}
+img{
+    height: 20px;
+    width: 20px;
+    color: white;
+}
+.wrapper{
+    text-align: center;
+    padding:3rem
+}
+
+#separate{
+    margin-top: 3rem;
+}
+
+
+
+
+.buttonWelcome{
+    text-align: center;
+    margin: 10rem;
+}
+
+@media (max-width: 767px) {
+    .wrapper{
+        margin: 2px;
+        text-align: center;
+    }
+  }
